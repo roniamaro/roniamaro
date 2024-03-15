@@ -17,7 +17,6 @@
   <img align="center" alt="DOCKER"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" alt="KUBERNETES" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   
-  
   <img align="center" alt="SHELL"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg" />
   <img align="center" alt="PYTHON"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
